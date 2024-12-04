@@ -45,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Utility\Node Class.cs" />
-    <Compile Include="Utility\SSL Class.cs" />
+    <Compile Include="Utility\SLL Class.cs" />
     <Compile Include="Utility\ILinkedListADT.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

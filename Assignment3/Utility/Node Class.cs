@@ -8,10 +8,10 @@ namespace Assignment3
 {
     public class Node
     {
-        public string Value { get; set; } // data part
+        public User Value { get; set; } // data part
         public Node Next { get; set; } // link or connection part
 
-        public Node(string value) //constructor of MyNode
+        public Node(User value) //constructor of MyNode
         {
             Value = value;
             Next = null;
